@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(52,25): error C2146: syntax error: missing ')' before identifier 'secondNeg'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(52,42): error C2146: syntax error: missing ';' before identifier 'secondNeg'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(52,35): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(52,67): error C2059: syntax error: ')'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(53,9): error C2059: syntax error: 'return'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,5): error C2059: syntax error: 'for'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,30): error C2143: syntax error: missing ')' before ';'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,36): error C2065: 'secondNeg': undeclared identifier
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,45): error C2143: syntax error: missing '>' before ';'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,32): error C7568: argument list missing after assumed function template 'i'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,32): warning C4091: '': ignored on left of '<error>' when no variable is declared
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,48): error C2143: syntax error: missing ';' before '++'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,48): error C2059: syntax error: '++'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,50): error C2059: syntax error: ')'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(57,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(61,5): error C2059: syntax error: 'return'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(62,1): error C2059: syntax error: '}'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(62,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(65,43): error C2143: syntax error: missing ';' before '{'
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(65,43): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\orest\source\repos\L.6.4it\L.6.4it\Source.cpp(114,5): error C3861: 'Rearrange': identifier not found
